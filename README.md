@@ -72,6 +72,7 @@ Joshua Auerbach, Martin Hirzel, Louis Mandel, Avraham Shinnar, Jerome Simeon
 
 Faster Coroutine Pipelines  
 Mike Spivey  
+([preprint](http://spivey.oriel.ox.ac.uk/wiki2/images/a/a1/Copipes.pdf))
 
 Foundations of Strong Call by Need  
 Thibaut Balabonski, Pablo Barenbaum, Eduardo Bonelli, Delia Kesner  
@@ -84,6 +85,7 @@ Jean-Philippe Bernardy
 
 Generic functional parallel algorithms: Scan and FFT  
 Conal Elliott  
+([preprint](http://conal.net/papers/generic-parallel-functional/generic-parallel-functional.pdf), [website](http://conal.net/papers/generic-parallel-functional/))
 
 Gradual Session Types  
 Atsushi Igarashi, Peter Thiemann, Vasco Vasconcelos, Philip Wadler  
@@ -105,6 +107,7 @@ Justin Pombrio, Shriram Krishnamurthi, Mitchell Wand
 
 Kami: A Platform for High-Level Parametric Hardware Specification and its Modular Verification  
 Joonwon Choi, Muralidaran Vijayaraghavan, Benjamin Sherman, Adam Chlipala, Arvind  
+([website](http://plv.csail.mit.edu/kami/), no preprint yet)
 
 Local Refinement Typing  
 Benjamin Cosman, Ranjit Jhala  
@@ -114,6 +117,7 @@ Joachim Breitner, Chris Smith
 
 Manifest Sharing with Session Types  
 Stephanie Balzer, Frank Pfenning  
+([preprint](https://www.cs.cmu.edu/~fp/papers/manifest17.pdf))
 
 Metaprogramming with Dependent Type Theory  
 Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura  

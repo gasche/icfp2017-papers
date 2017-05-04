@@ -82,6 +82,7 @@ William E. Byrd, Michael Ballantyne, Greg Rosenblatt, Matthew Might
 
 Functional Pearl: a pretty but not greedy printer  
 Jean-Philippe Bernardy  
+([preprint](http://jyp.github.io/pdf/Prettiest.pdf), [github repo](https://github.com/jyp/prettiest))  
 
 Generic functional parallel algorithms: Scan and FFT  
 Conal Elliott  

@@ -151,6 +151,7 @@ Konstantin Weitz, Steven Lyubomirsky, Stefan Heule, Emina Torlak, Michael D. Ern
 
 Staged Generic Programming  
 Jeremy Yallop  
+([draft](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))
 
 Super 8, the Story of Making Movies—A Functional Pearl  
 Leif Andersen, Stephen Chang, Asumu Takikawa, Matthias Felleisen  

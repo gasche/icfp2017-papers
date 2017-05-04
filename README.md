@@ -127,12 +127,14 @@ Milo Davis, William Meehan, Olin Shivers
 
 Normalization by Evaluation for Sized Dependent Types  
 Andreas Abel, Andrea Vezzosi, Theo Winterhalter  
+([preprint](http://www2.tcs.ifi.lmu.de/~abel/icfp17-long.pdf))
 
 On Polymorphic Gradual Typing  
 Yuu Igarashi, Taro Sekiyama, Atsushi Igarashi  
 
 On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control  
 Yannick Forster, Ohad Kammar, Sam Lindley, Matija Pretnar  
+([preprint](https://arxiv.org/pdf/1610.09161) from [arXiv](https://arxiv.org/pdf/1610.09161))
 
 Parametric Quantifiers for Dependent Type Theory  
 Andreas Nuyts, Andrea Vezzosi, Dominique Devriese  
@@ -145,6 +147,7 @@ Benjamin Canou, Roberto Di Cosmo, Grégoire Henry
 
 SpaceSearch: A Library for Building and Verifying Solver-Aided Tools  
 Konstantin Weitz, Steven Lyubomirsky, Stefan Heule, Emina Torlak, Michael D. Ernst, Zachary Tatlock  
+([technical report](https://www.cs.washington.edu/public_files/grad/tech_reports/UW-CSE-16-11-02.pdf))
 
 Staged Generic Programming  
 Jeremy Yallop  
@@ -163,12 +166,14 @@ Amal Ahmed, Dustin Jamner, Jeremy Siek, Philip Wadler
 
 Verified Low-Level Programming Embedded in F*  
 Karthikeyan Bhargavan, Antoine Delignat-Lavaud, Cedric Fournet, Cătălin Hriţcu, Jonathan Protzenko, Tahina Ramananandro, Aseem Rastogi, Nikhil Swamy, Peng Wang, Santiago Zanella-Beguelin, Jean-Karim Zinzindohoue  
+([preprint](https://arxiv.org/pdf/1703.00053) from [arXiv](https://arxiv.org/abs/1703.00053))
 
 Verifying Efficient Function Calls in CakeML  
 Scott Owens, Michael Norrish, Ramana Kumar, Magnus O. Myreen, Yong Kiam Tan  
 
 Visitors Unchained  
 François Pottier  
+([preprint](http://gallium.inria.fr/~fpottier/publis/fpottier-visitors-unchained.pdf))
 
 Whip: Higher-Order Contracts for Modern Services  
 Lucas Waye, Christos Dimoulas, Stephen Chong  

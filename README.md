@@ -37,12 +37,15 @@ Daniel Winograd-Cort, Andreas Haeberlen, Aaron Roth, Benjamin C. Pierce
 
 A Relational Logic for Higher-Order Programs  
 Alejandro Aguirre, Gilles Barthe, Marco Gaboardi, Deepak Garg, Pierre-Yves Strub  
+([preprint](https://arxiv.org/pdf/1703.05042) from [arXiv](https://arxiv.org/abs/1703.05042))
 
 A Specification for Dependently-Typed Haskell  
-Stephanie Weirich, Antoine Voizard, Pedro Henrique Avezedo de Amorim, Richard Eisenberg 
+Stephanie Weirich, Antoine Voizard, Pedro Henrique Avezedo de Amorim, Richard Eisenberg  
+([draft](https://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf))
 
 Automating Sized-Type Inference for Complexity Analysis  
 Martin Avanzini, Ugo Dal Lago  
+([preprint](https://arxiv.org/pdf/1704.05585) from [arXiv](https://arxiv.org/abs/1704.05585))
 
 Better Living Through Operational Semantics: An Optimizing Compiler for Radio Protocols  
 Geoffrey Mainland  
@@ -52,9 +55,11 @@ Hernan Melgratti, Luca Padovani
 
 Compiling to categories  
 Conal Elliott  
+([preprint](http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf), [website](http://conal.net/papers/compiling-to-categories/))
 
 Constrained Type Families  
 J. Garrett Morris, Richard Eisenberg  
+([preprint](http://cs.brynmawr.edu/~rae/papers/2017/partiality/partiality.pdf))
 
 Definitional Abstract Interpreters for Higher-Order Programming Languages  
 David Darais, Nicholas Labich, Phúc Nguyễn, David Van Horn  

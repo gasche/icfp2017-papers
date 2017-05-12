@@ -101,7 +101,8 @@ How to Prove Your Calculus is Decidable: Practical Applications of Second-order 
 Makoto Hamana  
 
 Imperative functional programs that explain their work  
-James Cheney, Roly Perera, Wilmer Ricciotti, Jan Stolarek  
+Wilmer Ricciotti, Jan Stolarek, Roly Perera, James Cheney  
+([draft](http://ics.p.lodz.pl/~stolarek/_media/pl:research:ricciotti_stolarek_perera_cheney_icfp2017.pdf), [companion code](https://github.com/jstolarek/slicer))  
 
 Inferring Scope through Syntactic Sugar  
 Justin Pombrio, Shriram Krishnamurthi, Mitchell Wand  

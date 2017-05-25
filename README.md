@@ -102,7 +102,7 @@ Makoto Hamana
 
 Imperative functional programs that explain their work  
 Wilmer Ricciotti, Jan Stolarek, Roly Perera, James Cheney  
-([draft](http://ics.p.lodz.pl/~stolarek/_media/pl:research:ricciotti_stolarek_perera_cheney_icfp2017.pdf), [companion code](https://github.com/jstolarek/slicer))  
+([preprint](https://arxiv.org/pdf/1705.07678) from [arXiv](https://arxiv.org/abs/1705.07678), [companion code](https://github.com/jstolarek/slicer))
 
 Inferring Scope through Syntactic Sugar  
 Justin Pombrio, Shriram Krishnamurthi, Mitchell Wand  

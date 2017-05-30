@@ -116,6 +116,7 @@ Benjamin Cosman, Ranjit Jhala
 
 Lock-step simulation is child’s play  
 Joachim Breitner, Chris Smith  
+([preprint](https://arxiv.org/pdf/1705.09704) from [arXiv](https://arxiv.org/abs/1705.09704))
 
 Manifest Sharing with Session Types  
 Stephanie Balzer, Frank Pfenning  

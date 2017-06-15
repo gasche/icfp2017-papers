@@ -144,6 +144,7 @@ Andreas Nuyts, Andrea Vezzosi, Dominique Devriese
 
 Persistence for the masses: RRB-Vectors in a systems language  
 Juan Pedro Bolívar Puente  
+([preprint](https://public.sinusoid.es/misc/immer/immer-icfp17-preprint-00.pdf), [website](https://sinusoid.es/immer/), [github](https://github.com/arximboldi/immer), [cppnow17 talk](https://www.youtube.com/watch?v=ZsryQp0UAC8))
 
 Scaling up Functional Programming Education: under the hood of the OCaml MOOC  
 Benjamin Canou, Roberto Di Cosmo, Grégoire Henry  

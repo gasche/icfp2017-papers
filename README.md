@@ -52,6 +52,7 @@ Geoffrey Mainland
 
 Chaperone Contracts for Higher-Order Sessions  
 Hernan Melgratti, Luca Padovani  
+([slides](http://materials.dagstuhl.de/files/17/17051/17051.Hern%C3%A1nMelgratti.Slides.pdf))
 
 Compiling to categories  
 Conal Elliott  
@@ -63,9 +64,11 @@ J. Garrett Morris, Richard Eisenberg
 
 Definitional Abstract Interpreters for Higher-Order Programming Languages  
 David Darais, Nicholas Labich, Phúc Nguyễn, David Van Horn  
+([paper](https://plum-umd.github.io/monadic-eval/) as a webpage!)
 
 Effect-Driven QuickChecking of Compilers  
 Jan Midtgaard, Mathias Nygaard Justesen, Patrick Kasting, Flemming Nielson, Hanne Riis Nielson  
+([implementation](https://github.com/jmid/efftester))
 
 Experience Report: Prototyping a Query Compiler Using Coq  
 Joshua Auerbach, Martin Hirzel, Louis Mandel, Avraham Shinnar, Jerome Simeon  
@@ -90,9 +93,11 @@ Conal Elliott
 
 Gradual Session Types  
 Atsushi Igarashi, Peter Thiemann, Vasco Vasconcelos, Philip Wadler  
+([slides](http://materials.dagstuhl.de/files/17/17051/17051.PeterThiemann.Slides.pdf))
 
 Gradual Typing with Union and Intersection Types  
 Giuseppe Castagna, Victor Lanvin  
+([preprint](https://www.irif.fr/~gc/papers/icfp17.pdf))
 
 Herbarium Racketensis: A Stroll Through the Woods (Functional Pearl)  
 Vincent St-Amour, Daniel Feltey, Spencer P. Florence, Shu-Hung You, Robby Findler  
@@ -106,6 +111,7 @@ Wilmer Ricciotti, Jan Stolarek, Roly Perera, James Cheney
 
 Inferring Scope through Syntactic Sugar  
 Justin Pombrio, Shriram Krishnamurthi, Mitchell Wand  
+([paper](http://cs.brown.edu/~sk/Publications/Papers/Published/pkw-inf-scope-syn-sugar/paper.pdf), [extended version](http://cs.brown.edu/research/plt/dl/icfp2017/supplement.pdf), [material](http://cs.brown.edu/research/plt/dl/icfp2017/))
 
 Kami: A Platform for High-Level Parametric Hardware Specification and its Modular Verification  
 Joonwon Choi, Muralidaran Vijayaraghavan, Benjamin Sherman, Adam Chlipala, Arvind  
@@ -168,6 +174,7 @@ Ivan Perez, Henrik Nilsson
 
 Theorems for Free for Free: Parametricity, With and Without Types  
 Amal Ahmed, Dustin Jamner, Jeremy Siek, Philip Wadler  
+([artifact](http://www.ccs.neu.edu/home/dijamner/paramblame/artifact/))
 
 Verified Low-Level Programming Embedded in F*  
 Karthikeyan Bhargavan, Antoine Delignat-Lavaud, Cedric Fournet, Cătălin Hriţcu, Jonathan Protzenko, Tahina Ramananandro, Aseem Rastogi, Nikhil Swamy, Peng Wang, Santiago Zanella-Beguelin, Jean-Karim Zinzindohoue  

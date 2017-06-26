@@ -34,6 +34,7 @@ with a list of mandatory revisions for authors to perform.
 
 A Framework for Adaptive Differential Privacy  
 Daniel Winograd-Cort, Andreas Haeberlen, Aaron Roth, Benjamin C. Pierce  
+([paper (extended version)](http://www.danwc.com/s/adafuzz2017.pdf))
 
 A Relational Logic for Higher-Order Programs  
 Alejandro Aguirre, Gilles Barthe, Marco Gaboardi, Deepak Garg, Pierre-Yves Strub  

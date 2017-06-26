@@ -168,6 +168,7 @@ Leif Andersen, Stephen Chang, Asumu Takikawa, Matthias Felleisen
 
 Symbolic conditioning of arrays in probabilistic programs  
 Praveen Narayanan, Chung-chieh Shan  
+([paper](http://homes.soic.indiana.edu/pravnar/disintegrate-arrays.pdf))
 
 Testing and Debugging Functional Reactive Programming  
 Ivan Perez, Henrik Nilsson  

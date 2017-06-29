@@ -166,6 +166,7 @@ Jeremy Yallop
 
 Super 8, the Story of Making Movies—A Functional Pearl  
 Leif Andersen, Stephen Chang, Asumu Takikawa, Matthias Felleisen  
+([preprint](http://lang.video/pub/icfp2017.pdf))
 
 Symbolic conditioning of arrays in probabilistic programs  
 Praveen Narayanan, Chung-chieh Shan  

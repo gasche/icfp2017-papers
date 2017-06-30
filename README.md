@@ -127,7 +127,7 @@ Joachim Breitner, Chris Smith
 
 Manifest Sharing with Session Types  
 Stephanie Balzer, Frank Pfenning  
-([preprint](https://www.cs.cmu.edu/~fp/papers/manifest17.pdf))
+([preprint](https://www.cs.cmu.edu/~fp/papers/icfp17.pdf))
 
 Metaprogramming with Dependent Type Theory  
 Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura  

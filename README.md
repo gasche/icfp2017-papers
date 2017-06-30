@@ -180,7 +180,7 @@ Amal Ahmed, Dustin Jamner, Jeremy Siek, Philip Wadler
 ([artifact](http://www.ccs.neu.edu/home/dijamner/paramblame/artifact/))
 
 Verified Low-Level Programming Embedded in F*  
-Karthikeyan Bhargavan, Antoine Delignat-Lavaud, Cedric Fournet, Cătălin Hriţcu, Jonathan Protzenko, Tahina Ramananandro, Aseem Rastogi, Nikhil Swamy, Peng Wang, Santiago Zanella-Beguelin, Jean-Karim Zinzindohoue  
+Jonathan Protzenko, Jean-Karim Zinzindohoué, Aseem Rastogi, Tahina Ramananandro, Peng Wang, Santiago Zanella-Béguelin, Antoine Delignat-Lavaud, Catalin Hritcu, Karthikeyan Bhargavan, Cédric Fournet, Nikhil Swamy  
 ([preprint](https://arxiv.org/pdf/1703.00053) from [arXiv](https://arxiv.org/abs/1703.00053))
 
 Verifying Efficient Function Calls in CakeML  

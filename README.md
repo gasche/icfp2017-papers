@@ -120,6 +120,7 @@ Joonwon Choi, Muralidaran Vijayaraghavan, Benjamin Sherman, Adam Chlipala, Arvin
 
 Local Refinement Typing  
 Benjamin Cosman, Ranjit Jhala  
+([preprint](https://arxiv.org/pdf/1706.08007) from [arXiv](https://arxiv.org/abs/1706.08007))
 
 Lock-step simulation is child’s play  
 Joachim Breitner, Chris Smith  
@@ -148,6 +149,7 @@ Yannick Forster, Ohad Kammar, Sam Lindley, Matija Pretnar
 
 Parametric Quantifiers for Dependent Type Theory  
 Andreas Nuyts, Andrea Vezzosi, Dominique Devriese  
+([draft](https://lirias.kuleuven.be/bitstream/123456789/586249/1/ParametricQuantifiers.pdf))
 
 Persistence for the masses: RRB-Vectors in a systems language  
 Juan Pedro Bolívar Puente  

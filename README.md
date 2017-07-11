@@ -248,6 +248,7 @@ Jennifer Paykin and Steve Zdancewic
 
 Elaboration on Functional Dependencies  
 Georgios Karachalias and Tom Schrijvers  
+([draft](https://people.cs.kuleuven.be/~george.karachalias/papers/fundeps.pdf))
 
 Quantified Class Constraints  
 Gert-Jan Bottu, Georgios Karachalias, Tom Schrijvers, Bruno C. D. S. Oliveira, and Philip Wadler  

@@ -207,7 +207,8 @@ accepted papers and contribute links to preprints.
 ### Algebraic Programming
 
 Algebraic Graphs with Class (Functional Pearl)  
-Andrey Mokhov
+Andrey Mokhov  
+([draft](https://github.com/snowleopard/alga-paper), [hackage](http://hackage.haskell.org/package/algebraic-graphs))
 
 Back to the Future: Time Travel in FRP  
 Ivan Perez

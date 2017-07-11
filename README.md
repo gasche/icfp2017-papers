@@ -220,6 +220,7 @@ Mario Blažević and Jacques Légaré
 
 Ode on a Random Urn (Functional Pearl)  
 Leonidas Lampropoulos, Antal Spector-Zabusky, and Kenneth Foner
+([pdf](http://www.cis.upenn.edu/~llamp/pdf/urns.pdf))
 
 QuickSpec: A Lightweight Theory Exploration Tool for Programmers (System Demonstration)  
 Maximilian Algehed, Koen Claessen, Moa Johansson, and Nicholas Smallbone

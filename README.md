@@ -312,3 +312,51 @@ Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Si
 
 Relational conversion for OCaml  
 Petr Lozov and Dmitry Boulytchev  
+
+
+## OCaml Workshop 2017 
+
+A B-tree library for OCaml  
+Tom Ridge  
+
+A memory model for multicore OCaml  
+Stephen Dolan, KC Sivaramakrishnan  
+
+Component-based Program Synthesis in OCaml  
+Zhanpeng Liang, Kanae Tsushima  
+
+Extending OCaml's open  
+Runhang Li, Jeremy Yallop  
+
+Genspio: Generating Shell Phrases In OCaml  
+Sebastien Mondet  
+
+Owl: A General-Purpose Numerical Library in OCaml  
+Liang Wang  
+
+ROTOR: First Steps Towards a Refactoring Tool for OCaml  
+Reuben N. S. Rowe, Simon Thompson  
+
+Testing with Crowbar  
+Stephen Dolan, Mindy Preston  
+
+Tezos: the OCaml Crypto-Ledger  
+Benjamin Canou, Grégoire Henry, Pierre Chambart, Fabrice Le Fessant, Arthur Breitman
+
+The State of the OCaml Platform: September 2017  
+Anil Madhavapeddy  
+
+Wodan: a pure OCaml, flash-aware filesystem library  
+Gabriel de Perthuis  
+
+ocamli: Interpreted OCaml  
+John Whitington  
+
+mSAT: An OCaml SAT Solver  
+Bury Guillaume  
+
+Tyre – Typed Regular Expressions  
+Gabriel Radanne  
+
+Jbuilder: a modern approach to OCaml development  
+Jeremie Dimino, Mark Shinwell  

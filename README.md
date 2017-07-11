@@ -211,11 +211,10 @@ Andrey Mokhov
 ([draft](https://github.com/snowleopard/alga-paper), [hackage](http://hackage.haskell.org/package/algebraic-graphs))
 
 Back to the Future: Time Travel in FRP  
-Ivan Perez
-
+Ivan Perez  
 
 Packrats Parse in Packs  
-Mario Blažević and Jacques Légaré
+Mario Blažević and Jacques Légaré  
 
 ### Randomness and Testing
 
@@ -226,9 +225,8 @@ Leonidas Lampropoulos, Antal Spector-Zabusky, and Kenneth Foner
 QuickSpec: A Lightweight Theory Exploration Tool for Programmers (System Demonstration)  
 Maximilian Algehed, Koen Claessen, Moa Johansson, and Nicholas Smallbone
 
-Speculate: Discovering Conditional Equations and Inequalities about Black-Box Functions by Reasoning from Test Result  s
-Rudy Braquehais and Colin Runciman
-
+Speculate: Discovering Conditional Equations and Inequalities about Black-Box Functions by Reasoning from Test Results  
+Rudy Braquehais and Colin Runciman  
 
 ### Verification
 
@@ -237,10 +235,10 @@ John Wiegley and Ben Delaware
 ([abstract](https://www.cs.purdue.edu/homes/bendy/Fiat/FiatByteString.html))
 
 A Tale of Two Provers: Verifying Monoidal String Matching in Liquid Haskell and Coq  
-Niki Vazou, Leonidas Lampropoulos, and Jeff Polakow
+Niki Vazou, Leonidas Lampropoulos, and Jeff Polakow  
 
 Well-Typed Music Does Not Sound Wrong (Experience Report)  
-Dmitrij Szamozvancev and Michael Gale
+Dmitrij Szamozvancev and Michael Gale  
 
 ### Expressive Types
 
@@ -249,7 +247,7 @@ Jennifer Paykin and Steve Zdancewic
 ([draft](https://www.cis.upenn.edu/~jpaykin/papers/pz_linearity_monad_2017.pdf))
 
 Elaboration on Functional Dependencies  
-Georgios Karachalias and Tom Schrijvers
+Georgios Karachalias and Tom Schrijvers  
 
 Quantified Class Constraints  
 Gert-Jan Bottu, Georgios Karachalias, Tom Schrijvers, Bruno C. D. S. Oliveira, and Philip Wadler  
@@ -257,23 +255,23 @@ Gert-Jan Bottu, Georgios Karachalias, Tom Schrijvers, Bruno C. D. S. Oliveira, a
 
 ### Haskell and the Real World
 
-Composable Network Stacks and Remote Monads
-Justin Dawson, Mark Grebe, and Andy Gill
+Composable Network Stacks and Remote Monads  
+Justin Dawson, Mark Grebe, and Andy Gill  
 
 A Meta-EDSL for Distributed Web Applications  
-Anton Ekblad
+Anton Ekblad  
 
 Hardware Software Co-Design in Haskell  
-Markus Aronsson and Mary Sheeran
+Markus Aronsson and Mary Sheeran  
 
 ### Concurrency and Parallelism
 
 Streaming Irregular Arrays  
-Robert Clifton-Everest, Trevor L. McDonell, Manuel M T Chakravarty, and Gabriele Keller
+Robert Clifton-Everest, Trevor L. McDonell, Manuel M T Chakravarty, and Gabriele Keller  
 
 Improving STM Performance with Transactional Structs  
-Ryan Yates and Michael Scott
+Ryan Yates and Michael Scott  
 
 Adaptive Lock-Free Data Structures in Haskell: A General Method for Concurrent Implementation Swapping  
-Chao-Hong Chen, Vikraman Choudhury, and Ryan Newton
+Chao-Hong Chen, Vikraman Choudhury, and Ryan Newton  
 

@@ -313,6 +313,11 @@ Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Si
 Relational conversion for OCaml  
 Petr Lozov and Dmitry Boulytchev  
 
+VOCAL -- A Verified OCAml Library  
+Arthur Charguéraud, Jean-Christophe Filliâtre, Mário Pereira, François Pottier  
+
+Bioinformatics, The Typed Tagless Final Way  
+Sebastien Mondet  
 
 ## OCaml Workshop 2017 
 

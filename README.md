@@ -289,6 +289,7 @@ Arthur Chargueraud and Mike Rainey
 
 Mergeable types  
 Gowtham Kaki, KC Sivaramakrishnan, Samodya Abeysiriwardane, and Suresh Jagannathan  
+([draft](http://kcsrk.info/papers/mergeable_types_ml17.pdf))
 
 Towards abductive functional programming  
 Koko Muroya  
@@ -298,12 +299,15 @@ Pierre Delaunay, Vincent Archambault-Bouffard, and Stefan Monnier
 
 Making SML# a general-purpose high-performance language  
 Atsushi Ohori, Kenjiro Taura, and Katsuhiro Ueno  
+([draft](http://www.pllab.riec.tohoku.ac.jp/papers/ml2017Preversion.pdf))
 
 First-class subtypes  
 Jeremy Yallop and Stephen Dolan  
+([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
 Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  
 Petr Lozov and Dmitry Boulytchev  

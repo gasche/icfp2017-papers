@@ -219,7 +219,7 @@ Mario Blažević and Jacques Légaré
 ### Randomness and Testing
 
 Ode on a Random Urn (Functional Pearl)  
-Leonidas Lampropoulos, Antal Spector-Zabusky, and Kenneth Foner
+Leonidas Lampropoulos, Antal Spector-Zabusky, and Kenneth Foner  
 ([pdf](http://www.cis.upenn.edu/~llamp/pdf/urns.pdf))
 
 QuickSpec: A Lightweight Theory Exploration Tool for Programmers (System Demonstration)  

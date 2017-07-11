@@ -275,3 +275,35 @@ Ryan Yates and Michael Scott
 Adaptive Lock-Free Data Structures in Haskell: A General Method for Concurrent Implementation Swapping  
 Chao-Hong Chen, Vikraman Choudhury, and Ryan Newton  
 
+## [ML Family Workshop](http://www.mlworkshop.org/ml2017)
+
+Effects without monads: non-determinism.  
+Oleg Kiselyov  
+
+Tierless modules  
+Gabriel Radanne and Jérôme Vouillon  
+([draft](https://www.irif.fr/~gradanne/papers/eliom/mlworkshop2017.pdf))
+
+Efficient representation of large, dynamic sequences in ML  
+Arthur Chargueraud and Mike Rainey  
+
+Mergeable types  
+Gowtham Kaki, KC Sivaramakrishnan, Samodya Abeysiriwardane, and Suresh Jagannathan  
+
+Towards abductive functional programming  
+Koko Muroya  
+
+Typer: an infix statically typed Lisp  
+Pierre Delaunay, Vincent Archambault-Bouffard, and Stefan Monnier  
+
+Making SML# a general-purpose high-performance language  
+Atsushi Ohori, Kenjiro Taura, and Katsuhiro Ueno  
+
+First-class subtypes  
+Jeremy Yallop and Stephen Dolan  
+
+Effectively tackling the awkward squad  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+
+Relational conversion for OCaml  
+Petr Lozov and Dmitry Boulytchev  

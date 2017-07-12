@@ -356,6 +356,7 @@ Gabriel de Perthuis
 
 ocamli: Interpreted OCaml  
 John Whitington  
+([extended abstract](http://www.cs.le.ac.uk/people/jw642/ocamlworkshop.pdf))
 
 mSAT: An OCaml SAT Solver  
 Bury Guillaume  

@@ -326,6 +326,7 @@ Tom Ridge
 
 A memory model for multicore OCaml  
 Stephen Dolan, KC Sivaramakrishnan  
+([extended abstract](http://kcsrk.info/papers/memory_model_ocaml17.pdf))
 
 Component-based Program Synthesis in OCaml  
 Zhanpeng Liang, Kanae Tsushima  

@@ -333,6 +333,7 @@ Zhanpeng Liang, Kanae Tsushima
 
 Extending OCaml's open  
 Runhang Li, Jeremy Yallop  
+([iOCamlJS playground!](http://ocamllabs.io/iocamljs/open-struct.html))
 
 Genspio: Generating Shell Phrases In OCaml  
 Sebastien Mondet  

@@ -237,6 +237,7 @@ John Wiegley and Ben Delaware
 
 A Tale of Two Provers: Verifying Monoidal String Matching in Liquid Haskell and Coq  
 Niki Vazou, Leonidas Lampropoulos, and Jeff Polakow  
+([preprint](https://nikivazou.github.io/static/Haskell17/a-tale.pdf))
 
 Well-Typed Music Does Not Sound Wrong (Experience Report)  
 Dmitrij Szamozvancev and Michael Gale  

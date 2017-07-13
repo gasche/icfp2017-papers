@@ -142,6 +142,7 @@ Andreas Abel, Andrea Vezzosi, Theo Winterhalter
 
 On Polymorphic Gradual Typing  
 Yuu Igarashi, Taro Sekiyama, Atsushi Igarashi  
+([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/polygrad-ICFP2017.pdf))
 
 On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control  
 Yannick Forster, Ohad Kammar, Sam Lindley, Matija Pretnar  

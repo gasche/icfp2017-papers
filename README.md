@@ -94,7 +94,7 @@ Conal Elliott
 
 Gradual Session Types  
 Atsushi Igarashi, Peter Thiemann, Vasco Vasconcelos, Philip Wadler  
-([slides](http://materials.dagstuhl.de/files/17/17051/17051.PeterThiemann.Slides.pdf))
+([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/gradual-session-ICFP2017.pdf), [slides](http://materials.dagstuhl.de/files/17/17051/17051.PeterThiemann.Slides.pdf))
 
 Gradual Typing with Union and Intersection Types  
 Giuseppe Castagna, Victor Lanvin  
@@ -142,6 +142,7 @@ Andreas Abel, Andrea Vezzosi, Theo Winterhalter
 
 On Polymorphic Gradual Typing  
 Yuu Igarashi, Taro Sekiyama, Atsushi Igarashi  
+([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/polygrad-ICFP2017.pdf))
 
 On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control  
 Yannick Forster, Ohad Kammar, Sam Lindley, Matija Pretnar  

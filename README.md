@@ -130,8 +130,9 @@ Manifest Sharing with Session Types
 Stephanie Balzer, Frank Pfenning  
 ([preprint](https://www.cs.cmu.edu/~fp/papers/icfp17.pdf))
 
-Metaprogramming with Dependent Type Theory  
+Engineering a Metaprogramming Framework for Formal Verification  
 Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura  
+([preprint](https://pp.ipd.kit.edu/uploads/publikationen/ebner17meta.pdf))
 
 No-brainer CPS Conversion  
 Milo Davis, William Meehan, Olin Shivers  

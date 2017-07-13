@@ -229,6 +229,7 @@ Maximilian Algehed, Koen Claessen, Moa Johansson, and Nicholas Smallbone
 
 Speculate: Discovering Conditional Equations and Inequalities about Black-Box Functions by Reasoning from Test Results  
 Rudy Braquehais and Colin Runciman  
+([pdf](https://matela.com.br/paper/speculate.pdf))
 
 ### Verification
 

@@ -130,8 +130,9 @@ Manifest Sharing with Session Types
 Stephanie Balzer, Frank Pfenning  
 ([preprint](https://www.cs.cmu.edu/~fp/papers/icfp17.pdf))
 
-Metaprogramming with Dependent Type Theory  
+Engineering a Metaprogramming Framework for Formal Verification  
 Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura  
+([preprint](https://pp.ipd.kit.edu/uploads/publikationen/ebner17meta.pdf))
 
 No-brainer CPS Conversion  
 Milo Davis, William Meehan, Olin Shivers  
@@ -237,6 +238,7 @@ John Wiegley and Ben Delaware
 
 A Tale of Two Provers: Verifying Monoidal String Matching in Liquid Haskell and Coq  
 Niki Vazou, Leonidas Lampropoulos, and Jeff Polakow  
+([preprint](https://nikivazou.github.io/static/Haskell17/a-tale.pdf))
 
 Well-Typed Music Does Not Sound Wrong (Experience Report)  
 Dmitrij Szamozvancev and Michael Gale  

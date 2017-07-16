@@ -70,7 +70,7 @@ David Darais, Nicholas Labich, Phúc Nguyễn, David Van Horn
 
 Effect-Driven QuickChecking of Compilers  
 Jan Midtgaard, Mathias Nygaard Justesen, Patrick Kasting, Flemming Nielson, Hanne Riis Nielson  
-([implementation](https://github.com/jmid/efftester))
+([preprint](http://janmidtgaard.dk/papers/Midtgaard-al%3aICFP17-full.pdf), [implementation](https://github.com/jmid/efftester))
 
 Experience Report: Prototyping a Query Compiler Using Coq  
 Joshua Auerbach, Martin Hirzel, Louis Mandel, Avraham Shinnar, Jerome Simeon  

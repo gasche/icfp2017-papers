@@ -117,7 +117,7 @@ Justin Pombrio, Shriram Krishnamurthi, Mitchell Wand
 
 Kami: A Platform for High-Level Parametric Hardware Specification and its Modular Verification  
 Joonwon Choi, Muralidaran Vijayaraghavan, Benjamin Sherman, Adam Chlipala, Arvind  
-([website](http://plv.csail.mit.edu/kami/), no preprint yet)
+([preprint](http://adam.chlipala.net/papers/KamiICFP17/KamiICFP17.pdf), [website](http://plv.csail.mit.edu/kami/))
 
 Local Refinement Typing  
 Benjamin Cosman, Ranjit Jhala  

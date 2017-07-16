@@ -50,6 +50,7 @@ Martin Avanzini, Ugo Dal Lago
 
 Better Living Through Operational Semantics: An Optimizing Compiler for Radio Protocols  
 Geoffrey Mainland  
+([preprint](https://www.cs.drexel.edu/~mainland/files/mainland17better.pdf))
 
 Chaperone Contracts for Higher-Order Sessions  
 Hernan Melgratti, Luca Padovani  
@@ -69,7 +70,7 @@ David Darais, Nicholas Labich, Phúc Nguyễn, David Van Horn
 
 Effect-Driven QuickChecking of Compilers  
 Jan Midtgaard, Mathias Nygaard Justesen, Patrick Kasting, Flemming Nielson, Hanne Riis Nielson  
-([implementation](https://github.com/jmid/efftester))
+([preprint](http://janmidtgaard.dk/papers/Midtgaard-al%3aICFP17-full.pdf), [implementation](https://github.com/jmid/efftester))
 
 Experience Report: Prototyping a Query Compiler Using Coq  
 Joshua Auerbach, Martin Hirzel, Louis Mandel, Avraham Shinnar, Jerome Simeon  
@@ -116,7 +117,7 @@ Justin Pombrio, Shriram Krishnamurthi, Mitchell Wand
 
 Kami: A Platform for High-Level Parametric Hardware Specification and its Modular Verification  
 Joonwon Choi, Muralidaran Vijayaraghavan, Benjamin Sherman, Adam Chlipala, Arvind  
-([website](http://plv.csail.mit.edu/kami/), no preprint yet)
+([preprint](http://adam.chlipala.net/papers/KamiICFP17/KamiICFP17.pdf), [website](http://plv.csail.mit.edu/kami/))
 
 Local Refinement Typing  
 Benjamin Cosman, Ranjit Jhala  
@@ -273,6 +274,7 @@ Markus Aronsson and Mary Sheeran
 
 Streaming Irregular Arrays  
 Robert Clifton-Everest, Trevor L. McDonell, Manuel M T Chakravarty, and Gabriele Keller  
+([preprint](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-seq2-haskell2017.pdf))
 
 Improving STM Performance with Transactional Structs  
 Ryan Yates and Michael Scott  

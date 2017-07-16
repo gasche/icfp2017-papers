@@ -274,6 +274,7 @@ Markus Aronsson and Mary Sheeran
 
 Streaming Irregular Arrays  
 Robert Clifton-Everest, Trevor L. McDonell, Manuel M T Chakravarty, and Gabriele Keller  
+([preprint](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-seq2-haskell2017.pdf))
 
 Improving STM Performance with Transactional Structs  
 Ryan Yates and Michael Scott  

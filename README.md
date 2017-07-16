@@ -50,6 +50,7 @@ Martin Avanzini, Ugo Dal Lago
 
 Better Living Through Operational Semantics: An Optimizing Compiler for Radio Protocols  
 Geoffrey Mainland  
+([preprint](https://www.cs.drexel.edu/~mainland/files/mainland17better.pdf))
 
 Chaperone Contracts for Higher-Order Sessions  
 Hernan Melgratti, Luca Padovani  

@@ -198,7 +198,7 @@ François Pottier
 
 Whip: Higher-Order Contracts for Modern Services  
 Lucas Waye, Christos Dimoulas, Stephen Chong  
-(no preprint yet, [webpage](http://people.seas.harvard.edu/~chong/abstracts/WayeDC2017.html), [language website](http://whip.services/))
+([preprint](http://people.seas.harvard.edu/~chong/pubs/icfp17-whip.pdf) from [paper webpage](http://people.seas.harvard.edu/~chong/abstracts/WayeDC2017.html), [language website](http://whip.services/))
 
 ## Co-located events
 

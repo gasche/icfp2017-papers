@@ -153,7 +153,7 @@ Yannick Forster, Ohad Kammar, Sam Lindley, Matija Pretnar
 
 Parametric Quantifiers for Dependent Type Theory  
 Andreas Nuyts, Andrea Vezzosi, Dominique Devriese  
-([draft](https://lirias.kuleuven.be/bitstream/123456789/586249/1/ParametricQuantifiers.pdf))
+([preprint](https://people.cs.kuleuven.be/~andreas.nuyts/ParametricQuantifiers.pdf))
 
 Persistence for the masses: RRB-Vectors in a systems language  
 Juan Pedro Bolívar Puente  

@@ -285,36 +285,36 @@ Chao-Hong Chen, Vikraman Choudhury, and Ryan Newton
 
 ## Higher-Order Programming with Effects (HOPE) 2017
 
-A monadic solution to the Cartwright-Felleisen-Wadler conjecture
-Ohad Kammar, Dylan McDermott
+A monadic solution to the Cartwright-Felleisen-Wadler conjecture  
+Ohad Kammar, Dylan McDermott  
 ([preprint](https://arxiv.org/pdf/1707.06685) from [arXiv](https://arxiv.org/abs/1707.06685))
 
-Handling fibred algebraic effects
-Danel Ahman
+Handling fibred algebraic effects  
+Danel Ahman  
 ([paper](https://danelahman.github.io/drafts/handling_fibred_algebraic_effects.pdf))
 
-Higher-order Programming is an Effect
-Oleg Kiselyov
+Higher-order Programming is an Effect  
+Oleg Kiselyov  
 
-Invited Talk: Semantics of Effect Systems by Graded Monads
-Shin-ya Katsumata
+Invited Talk: Semantics of Effect Systems by Graded Monads  
+Shin-ya Katsumata  
 
-Logical Relations for Algebraic Effects
-Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski
+Logical Relations for Algebraic Effects  
+Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski  
 
-Only Control Effects and Dependent Types
-Youyou Cong, William J. Bowman
+Only Control Effects and Dependent Types  
+Youyou Cong, William J. Bowman  
 
-Recalling a Witness
-Danel Ahman, Cătălin Hriţcu, Kenji Maillard, Aseem Rastogi, Nikhil Swamy, Cédric Fournet
+Recalling a Witness  
+Danel Ahman, Cătălin Hriţcu, Kenji Maillard, Aseem Rastogi, Nikhil Swamy, Cédric Fournet  
 ([preprint](https://arxiv.org/pdf/1707.02466) from [arXiv](https://arxiv.org/abs/1707.02466))
 
-RustBelt: Securing the Foundations of the Rust Programming Language
-Ralf Jung, Jacques-Henri Jourdan, Robbert Krebbers, Derek Dreyer
+RustBelt: Securing the Foundations of the Rust Programming Language  
+Ralf Jung, Jacques-Henri Jourdan, Robbert Krebbers, Derek Dreyer  
 ([paper](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf))
 
-Structured Asynchrony with Algebraic Effects
-Daan Leijen
+Structured Asynchrony with Algebraic Effects  
+Daan Leijen  
 ([technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf))
 
 ## [ML Family Workshop](http://www.mlworkshop.org/ml2017)

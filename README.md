@@ -406,6 +406,7 @@ Bury Guillaume
 
 Tyre – Typed Regular Expressions  
 Gabriel Radanne  
+([abstract](https://www.irif.fr/~gradanne/papers/tyre/abstract.pdf))
 
 Jbuilder: a modern approach to OCaml development  
 Jeremie Dimino, Mark Shinwell  

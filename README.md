@@ -283,6 +283,25 @@ Ryan Yates and Michael Scott
 Adaptive Lock-Free Data Structures in Haskell: A General Method for Concurrent Implementation Swapping  
 Chao-Hong Chen, Vikraman Choudhury, and Ryan Newton  
 
+## [FHPC 2017 Workshop on Functional High-Performance Computing](http://conf.researchr.org/track/FHPC-2017/FHPC-2017-papers#event-overview)
+
+Destination-Passing Style for Efficient Memory Management  
+Amir Shaikhha, Andrew Fitzgibbon, Simon Peyton Jones, Dimitrios Vytiniotis  
+
+From High-level Radio Protocol Specifications to Efficient Low-level Implementations via Partial Evaluation  
+Geoffrey Mainland, Siddhanathan Shanmugam  
+
+In Search of a Map: using Program Slicing to Discover Potential Parallelism in Recursive Functions  
+Adam Barwell, Kevin Hammond  
+
+Strategies for Regular Segmented Reductions on GPU  
+Rasmus Wriedt Larsen, Troels Henriksen  
+
+VisPar: Visualising dataflow graphs from the Par monad  
+Maximilian Algehed, Patrik Jansson  
+([postprint](http://www.cse.chalmers.se/~patrikj/papers/Algehed_Jansson_VisPar_postprint_2017-07-14.pdf), [VisPar source](https://github.com/MaximilianAlgehed/VisPar))  
+
+
 ## Higher-Order Programming with Effects (HOPE) 2017
 
 A monadic solution to the Cartwright-Felleisen-Wadler conjecture  

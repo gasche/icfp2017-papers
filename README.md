@@ -403,6 +403,7 @@ Liang Wang
 
 ROTOR: First Steps Towards a Refactoring Tool for OCaml  
 Reuben N. S. Rowe, Simon Thompson  
+([extended abstract](https://www.cs.kent.ac.uk/people/staff/rnsr/docs/rotor_ocaml-17_abstract.pdf))
 
 Testing with Crowbar  
 Stephen Dolan, Mindy Preston  

@@ -417,6 +417,7 @@ Anil Madhavapeddy
 
 Wodan: a pure OCaml, flash-aware filesystem library  
 Gabriel de Perthuis  
+([extended abstract](https://g2p.github.io/research/wodan.pdf ))
 
 ocamli: Interpreted OCaml  
 John Whitington  

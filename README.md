@@ -390,6 +390,7 @@ Stephen Dolan, KC Sivaramakrishnan
 
 Component-based Program Synthesis in OCaml  
 Zhanpeng Liang, Kanae Tsushima  
+([extended abstract](http://www-scf.usc.edu/~zhanpenl/prog_syn.pdf))
 
 Extending OCaml's open  
 Runhang Li, Jeremy Yallop  

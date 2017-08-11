@@ -383,6 +383,7 @@ Sebastien Mondet
 
 A B-tree library for OCaml  
 Tom Ridge  
+([extended abstract](http://www.tom-ridge.com/resources/doc/ocaml_2017.pdf))
 
 A memory model for multicore OCaml  
 Stephen Dolan, KC Sivaramakrishnan  

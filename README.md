@@ -375,6 +375,7 @@ Petr Lozov and Dmitry Boulytchev
 
 VOCAL -- A Verified OCAml Library  
 Arthur Charguéraud, Jean-Christophe Filliâtre, Mário Pereira, François Pottier  
+([extended abstract](https://hal.inria.fr/hal-01561094/document))
 
 Bioinformatics, The Typed Tagless Final Way  
 Sebastien Mondet  

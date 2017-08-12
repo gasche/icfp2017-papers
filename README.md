@@ -380,7 +380,7 @@ Arthur Charguéraud, Jean-Christophe Filliâtre, Mário Pereira, François Potti
 Bioinformatics, The Typed Tagless Final Way  
 Sebastien Mondet  
 
-## OCaml Workshop 2017 
+## OCaml Workshop 2017
 
 A B-tree library for OCaml  
 Tom Ridge  
@@ -396,7 +396,7 @@ Zhanpeng Liang, Kanae Tsushima
 
 Extending OCaml's open  
 Runhang Li, Jeremy Yallop  
-([iOCamlJS playground!](http://ocamllabs.io/iocamljs/open-struct.html))
+([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/extending-ocamls-open.pdf), [iOCamlJS playground!](http://ocamllabs.io/iocamljs/open-struct.html))
 
 Genspio: Generating Shell Phrases In OCaml  
 Sebastien Mondet  

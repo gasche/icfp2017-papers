@@ -403,6 +403,7 @@ Sebastien Mondet
 
 Owl: A General-Purpose Numerical Library in OCaml  
 Liang Wang  
+([extended abstract](https://arxiv.org/pdf/1707.09616) from [arXiv](https://arxiv.org/abs/1707.09616))
 
 ROTOR: First Steps Towards a Refactoring Tool for OCaml  
 Reuben N. S. Rowe, Simon Thompson  

@@ -428,6 +428,7 @@ John Whitington
 
 mSAT: An OCaml SAT Solver  
 Bury Guillaume  
+([extended abstract](https://gbury.eu/public/papers/icfp2017_msat.pdf))
 
 Tyre – Typed Regular Expressions  
 Gabriel Radanne  

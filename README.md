@@ -132,7 +132,7 @@ Manifest Sharing with Session Types
 Stephanie Balzer, Frank Pfenning  
 ([preprint](https://www.cs.cmu.edu/~fp/papers/icfp17.pdf))
 
-Engineering a Metaprogramming Framework for Formal Verification  
+A Metaprogramming Framework for Formal Verification  
 Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura  
 ([preprint](https://pp.ipd.kit.edu/uploads/publikationen/ebner17meta.pdf))
 

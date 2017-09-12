@@ -286,7 +286,8 @@ Chao-Hong Chen, Vikraman Choudhury, and Ryan Newton
 ## [FHPC 2017 Workshop on Functional High-Performance Computing](http://conf.researchr.org/track/FHPC-2017/FHPC-2017-papers#event-overview)
 
 Destination-Passing Style for Efficient Memory Management  
-Amir Shaikhha, Andrew Fitzgibbon, Simon Peyton Jones, Dimitrios Vytiniotis  
+Amir Shaikhha, Andrew Fitzgibbon, Simon Peyton Jones, Dimitrios Vytiniotis
+([preprint](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/dps-fhpc17.pdf))
 
 From High-level Radio Protocol Specifications to Efficient Low-level Implementations via Partial Evaluation  
 Geoffrey Mainland, Siddhanathan Shanmugam  

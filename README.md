@@ -344,7 +344,7 @@ Oleg Kiselyov
 
 Tierless modules  
 Gabriel Radanne and Jérôme Vouillon  
-([draft](https://www.irif.fr/~gradanne/papers/eliom/mlworkshop2017.pdf))
+([extended abstract](https://www.irif.fr/~gradanne/papers/eliom/mlworkshop2017.pdf)) ([technical report](https://hal.archives-ouvertes.fr/hal-01485362/document))
 
 Efficient representation of large, dynamic sequences in ML  
 Arthur Chargueraud and Mike Rainey  

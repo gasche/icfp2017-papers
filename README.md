@@ -378,9 +378,6 @@ VOCAL -- A Verified OCAml Library
 Arthur Charguéraud, Jean-Christophe Filliâtre, Mário Pereira, François Pottier  
 ([extended abstract](https://hal.inria.fr/hal-01561094/document))
 
-Bioinformatics, The Typed Tagless Final Way  
-Sebastien Mondet  
-
 ## OCaml Workshop 2017
 
 A B-tree library for OCaml  
@@ -400,7 +397,10 @@ Runhang Li, Jeremy Yallop
 ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/extending-ocamls-open.pdf), [iOCamlJS playground!](http://ocamllabs.io/iocamljs/open-struct.html))
 
 Genspio: Generating Shell Phrases In OCaml  
-Sebastien Mondet  
+[Sebastien Mondet](http://seb.mondet.org)  
+([extended abstract](http://wr.mondet.org/paper/smondet-genspio-ocaml17.pdf),
+[slides](http://wr.mondet.org/slides/OCaml2017-Genspio/),
+[code](https://github.com/hammerlab/genspio))
 
 Owl: A General-Purpose Numerical Library in OCaml  
 Liang Wang  
@@ -412,6 +412,12 @@ Reuben N. S. Rowe, Simon Thompson
 
 Testing with Crowbar  
 Stephen Dolan, Mindy Preston  
+
+Bioinformatics, The Typed Tagless Final Way  
+[Sebastien Mondet](http://seb.mondet.org)  
+([extended abstract](http://wr.mondet.org/paper/smondet-biottfi-ocaml17.pdf),
+[slides](http://wr.mondet.org/slides/OCaml2017-BioTTFI/#/),
+[code](https://github.com/hammerlab/wobidisco/))
 
 Tezos: the OCaml Crypto-Ledger  
 Benjamin Canou, Grégoire Henry, Pierre Chambart, Fabrice Le Fessant, Arthur Breitman

@@ -44,6 +44,10 @@ A Specification for Dependently-Typed Haskell
 Stephanie Weirich, Antoine Voizard, Pedro Henrique Avezedo de Amorim, Richard Eisenberg  
 ([draft](https://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf))
 
+Assuring AI  
+John Launchbury  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162312916))  
+
 Automating Sized-Type Inference for Complexity Analysis  
 Martin Avanzini, Ugo Dal Lago  
 ([preprint](https://arxiv.org/pdf/1704.05585) from [arXiv](https://arxiv.org/abs/1704.05585))
@@ -368,7 +372,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

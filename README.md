@@ -34,7 +34,7 @@ with a list of mandatory revisions for authors to perform.
 
 A Framework for Adaptive Differential Privacy  
 Daniel Winograd-Cort, Andreas Haeberlen, Aaron Roth, Benjamin C. Pierce  
-([paper (extended version)](http://www.danwc.com/s/adafuzz2017.pdf))
+([paper (extended version)](http://www.danwc.com/s/adafuzz2017.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162295527) at 23')
 
 A Relational Logic for Higher-Order Programs  
 Alejandro Aguirre, Gilles Barthe, Marco Gaboardi, Deepak Garg, Pierre-Yves Strub  
@@ -74,6 +74,7 @@ Jan Midtgaard, Mathias Nygaard Justesen, Patrick Kasting, Flemming Nielson, Hann
 
 Experience Report: Prototyping a Query Compiler Using Coq  
 Joshua Auerbach, Martin Hirzel, Louis Mandel, Avraham Shinnar, Jerome Simeon  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162295527) first video)  
 
 Faster Coroutine Pipelines  
 Mike Spivey  
@@ -176,7 +177,7 @@ Leif Andersen, Stephen Chang, Asumu Takikawa, Matthias Felleisen
 
 Symbolic conditioning of arrays in probabilistic programs  
 Praveen Narayanan, Chung-chieh Shan  
-([paper](http://homes.soic.indiana.edu/pravnar/disintegrate-arrays.pdf))
+([paper](http://homes.soic.indiana.edu/pravnar/disintegrate-arrays.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162295527) at 46')
 
 Testing and Debugging Functional Reactive Programming  
 Ivan Perez, Henrik Nilsson  
@@ -368,7 +369,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

@@ -99,7 +99,7 @@ Atsushi Igarashi, Peter Thiemann, Vasco Vasconcelos, Philip Wadler
 
 Gradual Typing with Union and Intersection Types  
 Giuseppe Castagna, Victor Lanvin  
-([preprint](https://www.irif.fr/~gc/papers/icfp17.pdf))
+([preprint](https://www.irif.fr/~gc/papers/icfp17.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162365389) at 52')
 
 Herbarium Racketensis: A Stroll Through the Woods (Functional Pearl)  
 Vincent St-Amour, Daniel Feltey, Spencer P. Florence, Shu-Hung You, Robby Findler  
@@ -145,7 +145,7 @@ Andreas Abel, Andrea Vezzosi, Theo Winterhalter
 
 On Polymorphic Gradual Typing  
 Yuu Igarashi, Taro Sekiyama, Atsushi Igarashi  
-([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/polygrad-ICFP2017.pdf))
+([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/polygrad-ICFP2017.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162365389) at 28')
 
 On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control  
 Yannick Forster, Ohad Kammar, Sam Lindley, Matija Pretnar  
@@ -183,7 +183,7 @@ Ivan Perez, Henrik Nilsson
 
 Theorems for Free for Free: Parametricity, With and Without Types  
 Amal Ahmed, Dustin Jamner, Jeremy Siek, Philip Wadler  
-([artifact](http://www.ccs.neu.edu/home/dijamner/paramblame/artifact/))
+([artifact](http://www.ccs.neu.edu/home/dijamner/paramblame/artifact/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162365389) at 4')
 
 Verified Low-Level Programming Embedded in F*  
 Jonathan Protzenko, Jean-Karim Zinzindohoué, Aseem Rastogi, Tahina Ramananandro, Peng Wang, Santiago Zanella-Béguelin, Antoine Delignat-Lavaud, Catalin Hritcu, Karthikeyan Bhargavan, Cédric Fournet, Nikhil Swamy  
@@ -368,7 +368,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

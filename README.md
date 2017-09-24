@@ -118,11 +118,11 @@ Justin Pombrio, Shriram Krishnamurthi, Mitchell Wand
 
 Kami: A Platform for High-Level Parametric Hardware Specification and its Modular Verification  
 Joonwon Choi, Muralidaran Vijayaraghavan, Benjamin Sherman, Adam Chlipala, Arvind  
-([preprint](http://adam.chlipala.net/papers/KamiICFP17/KamiICFP17.pdf), [website](http://plv.csail.mit.edu/kami/))
+([preprint](http://adam.chlipala.net/papers/KamiICFP17/KamiICFP17.pdf), [website](http://plv.csail.mit.edu/kami/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162320002) at 2')
 
 Local Refinement Typing  
 Benjamin Cosman, Ranjit Jhala  
-([preprint](https://arxiv.org/pdf/1706.08007) from [arXiv](https://arxiv.org/abs/1706.08007))
+([preprint](https://arxiv.org/pdf/1706.08007) from [arXiv](https://arxiv.org/abs/1706.08007), [video](https://livestream.com/oxuni/ICFP-2017/videos/162320002) at 50')
 
 Lock-step simulation is child’s play  
 Joachim Breitner, Chris Smith  
@@ -164,7 +164,7 @@ Benjamin Canou, Roberto Di Cosmo, Grégoire Henry
 
 SpaceSearch: A Library for Building and Verifying Solver-Aided Tools  
 Konstantin Weitz, Steven Lyubomirsky, Stefan Heule, Emina Torlak, Michael D. Ernst, Zachary Tatlock  
-([technical report](https://www.cs.washington.edu/public_files/grad/tech_reports/UW-CSE-16-11-02.pdf))
+([technical report](https://www.cs.washington.edu/public_files/grad/tech_reports/UW-CSE-16-11-02.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162320002) at 27'20'')
 
 Staged Generic Programming  
 Jeremy Yallop  
@@ -368,7 +368,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

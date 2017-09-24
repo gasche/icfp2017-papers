@@ -34,19 +34,19 @@ with a list of mandatory revisions for authors to perform.
 
 A Framework for Adaptive Differential Privacy  
 Daniel Winograd-Cort, Andreas Haeberlen, Aaron Roth, Benjamin C. Pierce  
-([paper (extended version)](http://www.danwc.com/s/adafuzz2017.pdf))
+([paper (extended version)](http://www.danwc.com/s/adafuzz2017.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162295527) at 23')
 
 A Relational Logic for Higher-Order Programs  
 Alejandro Aguirre, Gilles Barthe, Marco Gaboardi, Deepak Garg, Pierre-Yves Strub  
-([preprint](https://arxiv.org/pdf/1703.05042) from [arXiv](https://arxiv.org/abs/1703.05042))
+([preprint](https://arxiv.org/pdf/1703.05042) from [arXiv](https://arxiv.org/abs/1703.05042), [video](https://livestream.com/oxuni/ICFP-2017/videos/162316484) at 27')
 
 A Specification for Dependently-Typed Haskell  
 Stephanie Weirich, Antoine Voizard, Pedro Henrique Avezedo de Amorim, Richard Eisenberg  
-([draft](https://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf))
+([draft](https://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162358063) at start)
 
 Automating Sized-Type Inference for Complexity Analysis  
 Martin Avanzini, Ugo Dal Lago  
-([preprint](https://arxiv.org/pdf/1704.05585) from [arXiv](https://arxiv.org/abs/1704.05585))
+([preprint](https://arxiv.org/pdf/1704.05585) from [arXiv](https://arxiv.org/abs/1704.05585), [video](https://livestream.com/oxuni/ICFP-2017/videos/162370293) at 23')
 
 Better Living Through Operational Semantics: An Optimizing Compiler for Radio Protocols  
 Geoffrey Mainland  
@@ -54,15 +54,15 @@ Geoffrey Mainland
 
 Chaperone Contracts for Higher-Order Sessions  
 Hernan Melgratti, Luca Padovani  
-([slides](http://materials.dagstuhl.de/files/17/17051/17051.Hern%C3%A1nMelgratti.Slides.pdf))
+([slides](http://materials.dagstuhl.de/files/17/17051/17051.Hern%C3%A1nMelgratti.Slides.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162360350) at start)
 
 Compiling to categories  
 Conal Elliott  
-([preprint](http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf), [website](http://conal.net/papers/compiling-to-categories/))
+([preprint](http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf), [website](http://conal.net/papers/compiling-to-categories/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162323148) at start)
 
 Constrained Type Families  
 J. Garrett Morris, Richard Eisenberg  
-([preprint](http://cs.brynmawr.edu/~rae/papers/2017/partiality/partiality.pdf))
+([preprint](http://cs.brynmawr.edu/~rae/papers/2017/partiality/partiality.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162370293) at start)
 
 Definitional Abstract Interpreters for Higher-Order Programming Languages  
 David Darais, Nicholas Labich, Phúc Nguyễn, David Van Horn  
@@ -74,39 +74,42 @@ Jan Midtgaard, Mathias Nygaard Justesen, Patrick Kasting, Flemming Nielson, Hann
 
 Experience Report: Prototyping a Query Compiler Using Coq  
 Joshua Auerbach, Martin Hirzel, Louis Mandel, Avraham Shinnar, Jerome Simeon  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162295527) first video)  
 
 Faster Coroutine Pipelines  
 Mike Spivey  
-([preprint](http://spivey.oriel.ox.ac.uk/wiki2/images/a/a1/Copipes.pdf))
+([preprint](http://spivey.oriel.ox.ac.uk/wiki2/images/a/a1/Copipes.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162293313) at 1')
 
 Foundations of Strong Call by Need  
 Thibaut Balabonski, Pablo Barenbaum, Eduardo Bonelli, Delia Kesner  
 
 Functional Pearl: A Unified Approach to Solving Seven Programming Problems  
 William E. Byrd, Michael Ballantyne, Greg Rosenblatt, Matthew Might  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162293313) at 1h11')  
 
 Functional Pearl: a pretty but not greedy printer  
 Jean-Philippe Bernardy  
-([preprint](http://jyp.github.io/pdf/Prettiest.pdf), [github repo](https://github.com/jyp/prettiest))  
+([preprint](http://jyp.github.io/pdf/Prettiest.pdf), [github repo](https://github.com/jyp/prettiest), [video](https://livestream.com/oxuni/ICFP-2017/videos/162293313) at 26')  
 
 Generic functional parallel algorithms: Scan and FFT  
 Conal Elliott  
-([preprint](http://conal.net/papers/generic-parallel-functional/generic-parallel-functional.pdf), [website](http://conal.net/papers/generic-parallel-functional/))
+([preprint](http://conal.net/papers/generic-parallel-functional/generic-parallel-functional.pdf), [website](http://conal.net/papers/generic-parallel-functional/) [video](https://livestream.com/oxuni/ICFP-2017/videos/162293313) at 48'30'')  
 
 Gradual Session Types  
 Atsushi Igarashi, Peter Thiemann, Vasco Vasconcelos, Philip Wadler  
-([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/gradual-session-ICFP2017.pdf), [slides](http://materials.dagstuhl.de/files/17/17051/17051.PeterThiemann.Slides.pdf))
+([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/gradual-session-ICFP2017.pdf), [slides](http://materials.dagstuhl.de/files/17/17051/17051.PeterThiemann.Slides.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162360350) at 1h10')
 
 Gradual Typing with Union and Intersection Types  
 Giuseppe Castagna, Victor Lanvin  
-([preprint](https://www.irif.fr/~gc/papers/icfp17.pdf))
+([preprint](https://www.irif.fr/~gc/papers/icfp17.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162365389) at 52')
 
 Herbarium Racketensis: A Stroll Through the Woods (Functional Pearl)  
 Vincent St-Amour, Daniel Feltey, Spencer P. Florence, Shu-Hung You, Robby Findler  
-([paper](http://users.eecs.northwestern.edu/~stamourv/papers/herbarium-racketensis.pdf))
+([paper](http://users.eecs.northwestern.edu/~stamourv/papers/herbarium-racketensis.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162357490))
 
 How to Prove Your Calculus is Decidable: Practical Applications of Second-order Algebraic Theories and Computation  
 Makoto Hamana  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162316484))
 
 Imperative functional programs that explain their work  
 Wilmer Ricciotti, Jan Stolarek, Roly Perera, James Cheney  
@@ -114,23 +117,23 @@ Wilmer Ricciotti, Jan Stolarek, Roly Perera, James Cheney
 
 Inferring Scope through Syntactic Sugar  
 Justin Pombrio, Shriram Krishnamurthi, Mitchell Wand  
-([paper](http://cs.brown.edu/~sk/Publications/Papers/Published/pkw-inf-scope-syn-sugar/paper.pdf), [extended version](http://cs.brown.edu/research/plt/dl/icfp2017/supplement.pdf), [material](http://cs.brown.edu/research/plt/dl/icfp2017/))
+([paper](http://cs.brown.edu/~sk/Publications/Papers/Published/pkw-inf-scope-syn-sugar/paper.pdf), [extended version](http://cs.brown.edu/research/plt/dl/icfp2017/supplement.pdf), [material](http://cs.brown.edu/research/plt/dl/icfp2017/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162370293) at 47')
 
 Kami: A Platform for High-Level Parametric Hardware Specification and its Modular Verification  
 Joonwon Choi, Muralidaran Vijayaraghavan, Benjamin Sherman, Adam Chlipala, Arvind  
-([preprint](http://adam.chlipala.net/papers/KamiICFP17/KamiICFP17.pdf), [website](http://plv.csail.mit.edu/kami/))
+([preprint](http://adam.chlipala.net/papers/KamiICFP17/KamiICFP17.pdf), [website](http://plv.csail.mit.edu/kami/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162320002) at 2')
 
 Local Refinement Typing  
 Benjamin Cosman, Ranjit Jhala  
-([preprint](https://arxiv.org/pdf/1706.08007) from [arXiv](https://arxiv.org/abs/1706.08007))
+([preprint](https://arxiv.org/pdf/1706.08007) from [arXiv](https://arxiv.org/abs/1706.08007), [video](https://livestream.com/oxuni/ICFP-2017/videos/162320002) at 50')
 
 Lock-step simulation is child’s play  
 Joachim Breitner, Chris Smith  
-([preprint](https://arxiv.org/pdf/1705.09704) from [arXiv](https://arxiv.org/abs/1705.09704))
+([preprint](https://arxiv.org/pdf/1705.09704) from [arXiv](https://arxiv.org/abs/1705.09704), [video](https://livestream.com/oxuni/ICFP-2017/videos/162291585) at 50'45)
 
 Manifest Sharing with Session Types  
 Stephanie Balzer, Frank Pfenning  
-([preprint](https://www.cs.cmu.edu/~fp/papers/icfp17.pdf))
+([preprint](https://www.cs.cmu.edu/~fp/papers/icfp17.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162360350) at 47')
 
 A Metaprogramming Framework for Formal Verification  
 Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura  
@@ -138,6 +141,7 @@ Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura
 
 No-brainer CPS Conversion  
 Milo Davis, William Meehan, Olin Shivers  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162316484) at 1h14')  
 
 Normalization by Evaluation for Sized Dependent Types  
 Andreas Abel, Andrea Vezzosi, Theo Winterhalter  
@@ -145,7 +149,7 @@ Andreas Abel, Andrea Vezzosi, Theo Winterhalter
 
 On Polymorphic Gradual Typing  
 Yuu Igarashi, Taro Sekiyama, Atsushi Igarashi  
-([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/polygrad-ICFP2017.pdf))
+([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/polygrad-ICFP2017.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162365389) at 28')
 
 On the expressive power of user-defined effects: effect handlers, monadic reflection, delimited control  
 Yannick Forster, Ohad Kammar, Sam Lindley, Matija Pretnar  
@@ -153,22 +157,23 @@ Yannick Forster, Ohad Kammar, Sam Lindley, Matija Pretnar
 
 Parametric Quantifiers for Dependent Type Theory  
 Andreas Nuyts, Andrea Vezzosi, Dominique Devriese  
-([preprint](https://people.cs.kuleuven.be/~andreas.nuyts/ParametricQuantifiers.pdf))
+([preprint](https://people.cs.kuleuven.be/~andreas.nuyts/ParametricQuantifiers.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162358063) at 26')
 
 Persistence for the masses: RRB-Vectors in a systems language  
 Juan Pedro Bolívar Puente  
-([preprint](https://public.sinusoid.es/misc/immer/immer-icfp17-preprint-00.pdf), [website](https://sinusoid.es/immer/), [github](https://github.com/arximboldi/immer), [cppnow17 talk](https://www.youtube.com/watch?v=ZsryQp0UAC8))
+([preprint](https://public.sinusoid.es/misc/immer/immer-icfp17-preprint-00.pdf), [website](https://sinusoid.es/immer/), [github](https://github.com/arximboldi/immer), [cppnow17 talk](https://www.youtube.com/watch?v=ZsryQp0UAC8), [video](https://livestream.com/oxuni/ICFP-2017/videos/162314197) at 3')
 
 Scaling up Functional Programming Education: under the hood of the OCaml MOOC  
 Benjamin Canou, Roberto Di Cosmo, Grégoire Henry  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162291585) at 1h13')  
 
 SpaceSearch: A Library for Building and Verifying Solver-Aided Tools  
 Konstantin Weitz, Steven Lyubomirsky, Stefan Heule, Emina Torlak, Michael D. Ernst, Zachary Tatlock  
-([technical report](https://www.cs.washington.edu/public_files/grad/tech_reports/UW-CSE-16-11-02.pdf))
+([technical report](https://www.cs.washington.edu/public_files/grad/tech_reports/UW-CSE-16-11-02.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162320002) at 27'20'')
 
 Staged Generic Programming  
 Jeremy Yallop  
-([draft](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))
+([draft](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162323148) at 45')
 
 Super 8, the Story of Making Movies—A Functional Pearl  
 Leif Andersen, Stephen Chang, Asumu Takikawa, Matthias Felleisen  
@@ -176,29 +181,30 @@ Leif Andersen, Stephen Chang, Asumu Takikawa, Matthias Felleisen
 
 Symbolic conditioning of arrays in probabilistic programs  
 Praveen Narayanan, Chung-chieh Shan  
-([paper](http://homes.soic.indiana.edu/pravnar/disintegrate-arrays.pdf))
+([paper](http://homes.soic.indiana.edu/pravnar/disintegrate-arrays.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162295527) at 46')
 
 Testing and Debugging Functional Reactive Programming  
 Ivan Perez, Henrik Nilsson  
 
 Theorems for Free for Free: Parametricity, With and Without Types  
 Amal Ahmed, Dustin Jamner, Jeremy Siek, Philip Wadler  
-([artifact](http://www.ccs.neu.edu/home/dijamner/paramblame/artifact/))
+([artifact](http://www.ccs.neu.edu/home/dijamner/paramblame/artifact/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162365389) at 4')
 
 Verified Low-Level Programming Embedded in F*  
 Jonathan Protzenko, Jean-Karim Zinzindohoué, Aseem Rastogi, Tahina Ramananandro, Peng Wang, Santiago Zanella-Béguelin, Antoine Delignat-Lavaud, Catalin Hritcu, Karthikeyan Bhargavan, Cédric Fournet, Nikhil Swamy  
-([preprint](https://arxiv.org/pdf/1703.00053) from [arXiv](https://arxiv.org/abs/1703.00053))
+([preprint](https://arxiv.org/pdf/1703.00053) from [arXiv](https://arxiv.org/abs/1703.00053), [video](https://livestream.com/oxuni/ICFP-2017/videos/162314197) at 25')
 
 Verifying Efficient Function Calls in CakeML  
 Scott Owens, Michael Norrish, Ramana Kumar, Magnus O. Myreen, Yong Kiam Tan  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162314197) at 49')  
 
 Visitors Unchained  
 François Pottier  
-([preprint](http://gallium.inria.fr/~fpottier/publis/fpottier-visitors-unchained.pdf))
+([preprint](http://gallium.inria.fr/~fpottier/publis/fpottier-visitors-unchained.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162323148) at 23'30'')
 
 Whip: Higher-Order Contracts for Modern Services  
 Lucas Waye, Christos Dimoulas, Stephen Chong  
-([preprint](http://people.seas.harvard.edu/~chong/pubs/icfp17-whip.pdf) from [paper webpage](http://people.seas.harvard.edu/~chong/abstracts/WayeDC2017.html), [language website](http://whip.services/))
+([preprint](http://people.seas.harvard.edu/~chong/pubs/icfp17-whip.pdf) from [paper webpage](http://people.seas.harvard.edu/~chong/abstracts/WayeDC2017.html), [language website](http://whip.services/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162360350) at 24')
 
 ## Co-located events
 
@@ -294,6 +300,7 @@ Geoffrey Mainland, Siddhanathan Shanmugam
 
 In Search of a Map: using Program Slicing to Discover Potential Parallelism in Recursive Functions  
 Adam Barwell, Kevin Hammond  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162314197) at 1h12')  
 
 Strategies for Regular Segmented Reductions on GPU  
 Rasmus Wriedt Larsen, Troels Henriksen  
@@ -368,7 +375,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

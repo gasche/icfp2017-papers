@@ -126,7 +126,7 @@ Benjamin Cosman, Ranjit Jhala
 
 Lock-step simulation is child’s play  
 Joachim Breitner, Chris Smith  
-([preprint](https://arxiv.org/pdf/1705.09704) from [arXiv](https://arxiv.org/abs/1705.09704))
+([preprint](https://arxiv.org/pdf/1705.09704) from [arXiv](https://arxiv.org/abs/1705.09704), [video](https://livestream.com/oxuni/ICFP-2017/videos/162291585) at 50'45)
 
 Manifest Sharing with Session Types  
 Stephanie Balzer, Frank Pfenning  
@@ -368,7 +368,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

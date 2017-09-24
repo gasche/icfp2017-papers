@@ -157,7 +157,7 @@ Andreas Nuyts, Andrea Vezzosi, Dominique Devriese
 
 Persistence for the masses: RRB-Vectors in a systems language  
 Juan Pedro Bolívar Puente  
-([preprint](https://public.sinusoid.es/misc/immer/immer-icfp17-preprint-00.pdf), [website](https://sinusoid.es/immer/), [github](https://github.com/arximboldi/immer), [cppnow17 talk](https://www.youtube.com/watch?v=ZsryQp0UAC8))
+([preprint](https://public.sinusoid.es/misc/immer/immer-icfp17-preprint-00.pdf), [website](https://sinusoid.es/immer/), [github](https://github.com/arximboldi/immer), [cppnow17 talk](https://www.youtube.com/watch?v=ZsryQp0UAC8), [video](https://livestream.com/oxuni/ICFP-2017/videos/162314197) at 3')
 
 Scaling up Functional Programming Education: under the hood of the OCaml MOOC  
 Benjamin Canou, Roberto Di Cosmo, Grégoire Henry  
@@ -187,10 +187,11 @@ Amal Ahmed, Dustin Jamner, Jeremy Siek, Philip Wadler
 
 Verified Low-Level Programming Embedded in F*  
 Jonathan Protzenko, Jean-Karim Zinzindohoué, Aseem Rastogi, Tahina Ramananandro, Peng Wang, Santiago Zanella-Béguelin, Antoine Delignat-Lavaud, Catalin Hritcu, Karthikeyan Bhargavan, Cédric Fournet, Nikhil Swamy  
-([preprint](https://arxiv.org/pdf/1703.00053) from [arXiv](https://arxiv.org/abs/1703.00053))
+([preprint](https://arxiv.org/pdf/1703.00053) from [arXiv](https://arxiv.org/abs/1703.00053), [video](https://livestream.com/oxuni/ICFP-2017/videos/162314197) at 25')
 
 Verifying Efficient Function Calls in CakeML  
 Scott Owens, Michael Norrish, Ramana Kumar, Magnus O. Myreen, Yong Kiam Tan  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162314197) at 49')  
 
 Visitors Unchained  
 François Pottier  
@@ -294,6 +295,7 @@ Geoffrey Mainland, Siddhanathan Shanmugam
 
 In Search of a Map: using Program Slicing to Discover Potential Parallelism in Recursive Functions  
 Adam Barwell, Kevin Hammond  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162314197) at 1h12')  
 
 Strategies for Regular Segmented Reductions on GPU  
 Rasmus Wriedt Larsen, Troels Henriksen  
@@ -368,7 +370,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

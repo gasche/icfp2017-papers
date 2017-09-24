@@ -77,21 +77,22 @@ Joshua Auerbach, Martin Hirzel, Louis Mandel, Avraham Shinnar, Jerome Simeon
 
 Faster Coroutine Pipelines  
 Mike Spivey  
-([preprint](http://spivey.oriel.ox.ac.uk/wiki2/images/a/a1/Copipes.pdf))
+([preprint](http://spivey.oriel.ox.ac.uk/wiki2/images/a/a1/Copipes.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162293313) at 1')
 
 Foundations of Strong Call by Need  
 Thibaut Balabonski, Pablo Barenbaum, Eduardo Bonelli, Delia Kesner  
 
 Functional Pearl: A Unified Approach to Solving Seven Programming Problems  
 William E. Byrd, Michael Ballantyne, Greg Rosenblatt, Matthew Might  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162293313) at 1h11')  
 
 Functional Pearl: a pretty but not greedy printer  
 Jean-Philippe Bernardy  
-([preprint](http://jyp.github.io/pdf/Prettiest.pdf), [github repo](https://github.com/jyp/prettiest))  
+([preprint](http://jyp.github.io/pdf/Prettiest.pdf), [github repo](https://github.com/jyp/prettiest), [video](https://livestream.com/oxuni/ICFP-2017/videos/162293313) at 26')  
 
 Generic functional parallel algorithms: Scan and FFT  
 Conal Elliott  
-([preprint](http://conal.net/papers/generic-parallel-functional/generic-parallel-functional.pdf), [website](http://conal.net/papers/generic-parallel-functional/))
+([preprint](http://conal.net/papers/generic-parallel-functional/generic-parallel-functional.pdf), [website](http://conal.net/papers/generic-parallel-functional/) [video](https://livestream.com/oxuni/ICFP-2017/videos/162293313) at 48'30'')  
 
 Gradual Session Types  
 Atsushi Igarashi, Peter Thiemann, Vasco Vasconcelos, Philip Wadler  
@@ -368,7 +369,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

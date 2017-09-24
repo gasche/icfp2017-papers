@@ -46,7 +46,7 @@ Stephanie Weirich, Antoine Voizard, Pedro Henrique Avezedo de Amorim, Richard Ei
 
 Automating Sized-Type Inference for Complexity Analysis  
 Martin Avanzini, Ugo Dal Lago  
-([preprint](https://arxiv.org/pdf/1704.05585) from [arXiv](https://arxiv.org/abs/1704.05585))
+([preprint](https://arxiv.org/pdf/1704.05585) from [arXiv](https://arxiv.org/abs/1704.05585), [video](https://livestream.com/oxuni/ICFP-2017/videos/162370293) at 23')
 
 Better Living Through Operational Semantics: An Optimizing Compiler for Radio Protocols  
 Geoffrey Mainland  
@@ -62,7 +62,7 @@ Conal Elliott
 
 Constrained Type Families  
 J. Garrett Morris, Richard Eisenberg  
-([preprint](http://cs.brynmawr.edu/~rae/papers/2017/partiality/partiality.pdf))
+([preprint](http://cs.brynmawr.edu/~rae/papers/2017/partiality/partiality.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162370293) at start)
 
 Definitional Abstract Interpreters for Higher-Order Programming Languages  
 David Darais, Nicholas Labich, Phúc Nguyễn, David Van Horn  
@@ -114,7 +114,7 @@ Wilmer Ricciotti, Jan Stolarek, Roly Perera, James Cheney
 
 Inferring Scope through Syntactic Sugar  
 Justin Pombrio, Shriram Krishnamurthi, Mitchell Wand  
-([paper](http://cs.brown.edu/~sk/Publications/Papers/Published/pkw-inf-scope-syn-sugar/paper.pdf), [extended version](http://cs.brown.edu/research/plt/dl/icfp2017/supplement.pdf), [material](http://cs.brown.edu/research/plt/dl/icfp2017/))
+([paper](http://cs.brown.edu/~sk/Publications/Papers/Published/pkw-inf-scope-syn-sugar/paper.pdf), [extended version](http://cs.brown.edu/research/plt/dl/icfp2017/supplement.pdf), [material](http://cs.brown.edu/research/plt/dl/icfp2017/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162370293) at 47')
 
 Kami: A Platform for High-Level Parametric Hardware Specification and its Modular Verification  
 Joonwon Choi, Muralidaran Vijayaraghavan, Benjamin Sherman, Adam Chlipala, Arvind  
@@ -368,7 +368,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

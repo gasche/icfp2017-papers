@@ -38,7 +38,7 @@ Daniel Winograd-Cort, Andreas Haeberlen, Aaron Roth, Benjamin C. Pierce
 
 A Relational Logic for Higher-Order Programs  
 Alejandro Aguirre, Gilles Barthe, Marco Gaboardi, Deepak Garg, Pierre-Yves Strub  
-([preprint](https://arxiv.org/pdf/1703.05042) from [arXiv](https://arxiv.org/abs/1703.05042))
+([preprint](https://arxiv.org/pdf/1703.05042) from [arXiv](https://arxiv.org/abs/1703.05042), [video](https://livestream.com/oxuni/ICFP-2017/videos/162316484) at 27')
 
 A Specification for Dependently-Typed Haskell  
 Stephanie Weirich, Antoine Voizard, Pedro Henrique Avezedo de Amorim, Richard Eisenberg  
@@ -80,7 +80,8 @@ Mike Spivey
 ([preprint](http://spivey.oriel.ox.ac.uk/wiki2/images/a/a1/Copipes.pdf))
 
 Foundations of Strong Call by Need  
-Thibaut Balabonski, Pablo Barenbaum, Eduardo Bonelli, Delia Kesner  
+Thibaut Balabonski, Pablo Barenbaum, Eduardo Bonelli, Delia Kesner
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162316484) at 51')  
 
 Functional Pearl: A Unified Approach to Solving Seven Programming Problems  
 William E. Byrd, Michael Ballantyne, Greg Rosenblatt, Matthew Might  
@@ -107,6 +108,7 @@ Vincent St-Amour, Daniel Feltey, Spencer P. Florence, Shu-Hung You, Robby Findle
 
 How to Prove Your Calculus is Decidable: Practical Applications of Second-order Algebraic Theories and Computation  
 Makoto Hamana  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162316484))
 
 Imperative functional programs that explain their work  
 Wilmer Ricciotti, Jan Stolarek, Roly Perera, James Cheney  
@@ -138,6 +140,7 @@ Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura
 
 No-brainer CPS Conversion  
 Milo Davis, William Meehan, Olin Shivers  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162316484) at 1h14')  
 
 Normalization by Evaluation for Sized Dependent Types  
 Andreas Abel, Andrea Vezzosi, Theo Winterhalter  
@@ -368,7 +371,7 @@ Jeremy Yallop and Stephen Dolan
 ([draft](https://www.cl.cam.ac.uk/~jdy22/papers/first-class-subtypes.pdf))
 
 Effectively tackling the awkward squad  
-Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
+Stephen Dolan, Spiros Eliopoulos, Daniel Hillerström, Anil Madhavapeddy, KC Sivaramakrishnan, and Leo White  
 ([draft](http://kcsrk.info/papers/awkward_effects_ml17.pdf))
 
 Relational conversion for OCaml  

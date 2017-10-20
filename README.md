@@ -411,7 +411,7 @@ Genspio: Generating Shell Phrases In OCaml
 
 Owl: A General-Purpose Numerical Library in OCaml  
 Liang Wang  
-([extended abstract](https://arxiv.org/pdf/1707.09616) from [arXiv](https://arxiv.org/abs/1707.09616))
+([extended abstract](https://arxiv.org/pdf/1707.09616) from [arXiv](https://arxiv.org/abs/1707.09616), [presentation](https://docs.google.com/presentation/d/1A-7KiQLot3X2lLyZntrFGxsxaNir0g_2TlruBP4W2Uc/))
 
 ROTOR: First Steps Towards a Refactoring Tool for OCaml  
 Reuben N. S. Rowe, Simon Thompson  
@@ -431,6 +431,7 @@ Benjamin Canou, Grégoire Henry, Pierre Chambart, Fabrice Le Fessant, Arthur Bre
 
 The State of the OCaml Platform: September 2017  
 Anil Madhavapeddy  
+([slides](https://docs.google.com/presentation/d/1A-7KiQLot3X2lLyZntrFGxsxaNir0g_2TlruBP4W2Uc/))
 
 Wodan: a pure OCaml, flash-aware filesystem library  
 Gabriel de Perthuis  

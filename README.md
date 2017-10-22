@@ -401,7 +401,9 @@ Zhanpeng Liang, Kanae Tsushima
 
 Extending OCaml's open  
 Runhang Li, Jeremy Yallop  
-([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/extending-ocamls-open.pdf), [iOCamlJS playground!](http://ocamllabs.io/iocamljs/open-struct.html))
+([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/extending-ocamls-open.pdf),
+ [iOCamlJS playground!](http://ocamllabs.io/iocamljs/open-struct.html),
+ [additional material](https://github.com/objmagic/ocaml-workshop-17-open-ext-talk))
 
 Genspio: Generating Shell Phrases In OCaml  
 [Sebastien Mondet](http://seb.mondet.org)  

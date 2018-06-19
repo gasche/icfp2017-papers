@@ -225,6 +225,7 @@ Ivan Perez
 
 Packrats Parse in Packs  
 Mario Blažević and Jacques Légaré  
+([pdf](https://github.com/blamario/grampa/raw/master/Grampa.lhs.pdf), [hackage](https://hackage.haskell.org/package/grammatical-parsers))
 
 ### Randomness and Testing
 
